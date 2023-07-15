@@ -34,6 +34,7 @@ Here are some badges representing my skills and certifications:
 [![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&labelColor=4285F4&style=flat-square)](https://cloud.google.com/)
 [![SQL](https://img.shields.io/badge/-SQL-FF8C00?logo=sql&logoColor=white&labelColor=FF8C00&style=flat-square)](https://www.w3schools.com/sql/)
 [![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white&labelColor=E25A1C&style=flat-square)](https://spark.apache.org/)
+[![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white&labelColor=017CEE&style=flat-square)(https://airflow.apache.org/)
 
 
 Feel free to explore my repositories and contribute to any ongoing projects. Let's collaborate and make an impact with data!
